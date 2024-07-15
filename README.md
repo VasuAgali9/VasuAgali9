@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VasuAgali9
+- 👋 Hi, I’m Vasu
 - 👀 I’m interested in learning new and quick coding skills
 - 🌱 I’m currently learning AI/ML and Implementation
 - 💞️ I’m looking to collaborate on AI solutions for corporate world
